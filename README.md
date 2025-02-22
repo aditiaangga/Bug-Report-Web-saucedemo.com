@@ -76,4 +76,5 @@ Label : Web, Firefox
 Reporter : Aditia Angga Perdana
 Assigne : Dev
 
+This project is tested with BrowserStack
 
